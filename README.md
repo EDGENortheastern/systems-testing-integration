@@ -10,7 +10,7 @@ To run the client, you should:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
@@ -27,6 +27,9 @@ To run the server, you should:
 ### `cd server`
 
 ### `node index`
+
+Runs the app on your local machine.
+Open [http://localhost:4000](http://localhost:4000) to view the server output in your browser.
 
 ## The task
 
