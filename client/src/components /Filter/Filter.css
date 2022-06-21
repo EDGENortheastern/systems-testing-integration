@@ -1,0 +1,19 @@
+label,input{
+    display:flex;
+    flex-direction:column;
+}
+
+.pet-filter-container {
+    width: 15%;
+}
+
+.filter-container {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.form-select {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0.75rem;
+}
